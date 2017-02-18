@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Homepage.html",
+    "currentPage": "About.html",
     "name": "SeriousMc",
     "theme": {
       "name": "mobirise3",
@@ -288,7 +288,7 @@
           "_anchor": "header4-5",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#a07e49",
@@ -296,7 +296,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
